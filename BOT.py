@@ -1,3 +1,4 @@
+# @BinarySearchBot
 import logging
 
 from aiogram import Bot, types
