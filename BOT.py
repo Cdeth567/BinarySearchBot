@@ -11,7 +11,7 @@ from aiogram.utils.exceptions import MessageNotModified
 
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token='6030262499:AAEx_4Vjej8GnXKVDmJzap2iPe1mjPrl0qQ')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 dp.middleware.setup(LoggingMiddleware())
 
